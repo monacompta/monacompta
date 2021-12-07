@@ -1,4 +1,6 @@
 ### Hi there 👋
+This is a skeleton at his stage. Will be filled with substance in due course - as development progresses...
+
 
 <!--
 **monacompta/monacompta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
